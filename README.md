@@ -9,7 +9,7 @@ https://m5stack.com/products/stick-c
 Mini Heart Rate Unit (MAX30100) – m5stack-store
 https://m5stack.com/products/mini-heart-unit
 
-To build binary, MAX30100 library is needed.
+To build binary, MAX30100lib library is needed.
 
-This sketch is originated from MAX30100_MINIMUM.ico, a sample sketch
+This sketch is originated from MAX30100_Minimal.ico, a sample sketch
 in MAX30100lib.
