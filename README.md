@@ -14,4 +14,4 @@ To build binary, MAX30100lib library is needed.
 This sketch is originated from MAX30100_Minimal.ico, a sample sketch
 in MAX30100lib.
 
-For more information, see https://attosci.com/wordpress/index.php/2020/04/26/m5stackc-pulseoximeter/ (in Japanese).
+For more information, see https://attosci.hatenablog.com/entry/index.php/2020/04/26/m5stackc-pulseoximeter/
